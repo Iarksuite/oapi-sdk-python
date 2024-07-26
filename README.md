@@ -1,2 +1,1 @@
-# oapi-sdk-python
-Larksuite development interface SDK
+This is larksuite's Hackerone bug bounty test
